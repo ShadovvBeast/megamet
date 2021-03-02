@@ -1,0 +1,26 @@
+{
+  "name": "megamet",
+  "version": "0.0.1",
+  "description": "Gematria text analyzer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShadovvBeast/megamet.git"
+  },
+  "keywords": [
+    "gematria"
+  ],
+  "author": "ShadowBeast",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShadovvBeast/megamet/issues"
+  },
+  "homepage": "https://github.com/ShadovvBeast/megamet#readme",
+  "dependencies": {
+    "gematria": "^1.0.0"
+  }
+}
