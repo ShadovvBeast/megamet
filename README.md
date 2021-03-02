@@ -1,0 +1,2 @@
+# megamet
+Gematria text analyzer
